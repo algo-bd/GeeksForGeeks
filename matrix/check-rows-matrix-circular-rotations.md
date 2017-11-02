@@ -1,12 +1,10 @@
 ## [Matrix Circular Rotation](http://www.geeksforgeeks.org/check-rows-matrix-circular-rotations/)
 
 ```c++
-#include <iostream>
-#include <string>
+#include <bits/stdc++.h>
+using namespace std;
 
 #define MAX 4
-
-using namespace std;
 
 bool  isPermutedMatrix(int mat[MAX][MAX], int n) {
 	string s = "";
