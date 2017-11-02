@@ -1,7 +1,6 @@
 ## [Diagonal Sum of Square Matrix](http://www.geeksforgeeks.org/sum-diagonals-spiral-odd-order-square-matrix/)
 ```c++
-#include <iostream>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 int spiralDiaSum(int n) {
